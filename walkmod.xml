@@ -1,0 +1,8 @@
+<!DOCTYPE walkmod PUBLIC "-//WALKMOD//DTD" "http://www.walkmod.com/dtd/walkmod-1.1.dtd"> 
+<walkmod>
+<chain name="chain1"> 
+<reader path="{source-dir}"/>
+<transformation type="imports-cleaner"/>
+<writer path="{destination-dir}"/>
+</chain>
+</walkmod>

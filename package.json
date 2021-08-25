@@ -1,0 +1,25 @@
+{
+  "name": "autolinter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shell.js": "^3.2.4",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "@iamnapo/prettier-config": "^1.0.3",
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "eslint": "^7.32.0",
+    "eslint-config-iamnapo": "^16.1.0",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-unicorn": "^35.0.0",
+    "typescript": "^4.3.5"
+  }
+}
